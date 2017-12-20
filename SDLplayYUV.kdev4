@@ -1,0 +1,4 @@
+[Project]
+Name=SDLplayYUV
+Manager=KDevCMakeManager
+VersionControl=kdevgit
